@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software development
 - 🌱 I’m currently learning ... Java 
 - 💞️ I’m looking to collaborate on ... Java Spring Project
-- 📫 How to reach me ... @Akshay1Sanjay@gamil.com
+- 📫 How to reach me ... Akshay1Sanjay@gamil.com
 
 <!---
 Akshay1Sanjay/Akshay1Sanjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
